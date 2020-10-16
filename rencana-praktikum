@@ -1,0 +1,44 @@
+Praktikum:
+1. Install Code Editor --> Sublime Text 3 (unregistered) semua fitur jalan normal
+   - install plugin: Package Control
+     https://packagecontrol.io/installation
+   - install emmet (Ctrl + Shift + P) --> tulis emmet
+   - install advanced new file (Ctrl + Shift + P) --> tulis advanced new file
+     bikin file cukup ketik ctl + alt + n --> tulis nama file / nama folder terus tab
+   - https://medium.com/@aufaroot18/plugin-sublime-text-3-yang-membantu-koding-fdef9d2f7127
+
+2. Rencana minimal 12x pertemuan
+   - 5x praktikum
+   - UTS Tugas Besar 1
+   - 5x praktikum
+   - UAS Tugas Besar 2
+3. P1: --> install Sublime Text 3 + package control + emmet
+   P2: --> Struktur HTML
+           Blog/Newspaper/Portofolio
+           header, main, section, nav, aside, footer
+   P3: --> lengkapi dengan konten
+           blog: ada judul, tanggal, penulis, isi artikel
+           newsletter: judul, tanggal, wartawan, isi berita, kategori
+           portofolio: judul proyek, pemilik, tahun berapa,...
+           tambahkan gambar2
+   P4: --> tambahkan multimedia --> embed video dari youtube, vimeo, dailymotion
+                                --> embed spotify
+                                --> podcast
+           punya website yang komplit
+           jelasin konsep absolute path sama relative path
+           - absolute path = link ke website di luar website sendiri
+           - relative = link ke internal website
+   P5: --> mulai hias pakai style --> external
+
+   p6: --> layout (header, main kebagi 3 kolom, kiri sidebar, tengah konten, kanan second nav), 
+                  footer)
+
+   p7: --> TUGAS BESAR 1: mereka buat html + css + layout
+
+   P8: --> javascript: teori tentang DOM
+           bikin animasi sedikit aja di HTML pakai javascript
+   P9: --> ajarin framework: Bootstrap 4.4.5 --> elemen dan sebagainya
+   P10: --> buat halaman web pakai bootstrap
+   P11: --> lanjut buat halaman pakai bootstrap
+   P12: --> TUGAS BESAR 2: membuat halaman web dengan bootstrap
+
